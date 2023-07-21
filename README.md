@@ -35,6 +35,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-black?style=for-the-badge&logo=bluetooth)
 ![KiCad](https://img.shields.io/badge/KiCad-black?style=for-the-badge&logo=kicad)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Solidworks](https://img.shields.io/badge/SolidWorks-red?style=for-the-badge)
 
