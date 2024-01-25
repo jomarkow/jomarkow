@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/julian-markow-8a154625b">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/wervlad">
+    <a href="https://www.hackerrank.com/profile/jomarkow">
         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square=HackerRank&logo=HackerRank" alt="Hackerrank">
     </a>
     <a href="mailto:jomarkow@gmail.com">
