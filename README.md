@@ -5,7 +5,7 @@
         <br>
         Welcome to my GitHub page!<br>
         From Argentina.<br> 
-        Future :b Machine learning programmer.<br> 
+        Future :b Electronic Engineer<br> 
         Electronic technician.<br> 
         English B1 certificate. <br> 
     </i><br>
