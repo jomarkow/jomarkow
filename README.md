@@ -7,7 +7,7 @@
         From Argentina.<br> 
         Future :b Electronic Engineer<br> 
         Electronic technician.<br> 
-        English B1 certificate. <br> 
+        English B2 certificate. <br> 
     </i><br>
     <a href="https://www.linkedin.com/in/julian-markow-8a154625b">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
